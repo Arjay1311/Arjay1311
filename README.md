@@ -1,7 +1,6 @@
 # Hi, I'm Arjay J G 
 
-> Ambitious student with strong problem-solving and programming skills in various languages, having a good foundational knowledge in artificial intelligence, particularly focused on machine learning.
-
+> Ambitious student with strong problem-solving and programming skills in various languages, with solid expertise in artificial intelligence, particularly in machine learning.
 ---
 
 ##  About Me
