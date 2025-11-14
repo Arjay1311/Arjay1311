@@ -1,26 +1,7 @@
 # Hi, I'm Arjay J G 
 
-> Ambitious student with strong problem-solving and programming skills in various languages, with solid expertise in artificial intelligence, particularly in machine learning.
----
 
-##  About Me
-
-- **College Student** passionate about tech, AI, and continuous learning  
-- Driven by curiosity and a love for building practical solutions
-
----
-
-##  Skills
-
-- **Machine Learning & Data Science:** Python, ML frameworks, Tableau, Power BI
-- **Web Development:** Next.js, Node.js, MongoDB, Tailwind CSS, REST APIs
-- **Cloud:** AWS
-- **Database:** MySQL, Microsoft SQL Server, MongoDB
-- **Programming:** C, C++, Core Java, JavaScript, Python
-
----
-
-##  Projects
+##  Notable Projects
 
 - [Land Cover Classification & Segmentation](https://github.com/Arjay1311/land-cover-classification-and-segmentation)  
   Deep learning for remote sensing imagery
