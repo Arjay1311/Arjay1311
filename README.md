@@ -26,4 +26,4 @@
 
 ---
 
-<sub>In my free time, I enjoy video games, comics, and movies — always seeking inspiration from both tech and storytelling.</sub>
+<sub>In my free time, I enjoy video games, comics, and movies.</sub>
